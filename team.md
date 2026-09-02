@@ -2,8 +2,10 @@
 
 ## Student
 
-Jeff Henry
+### Jeff Henry
+
+Senior CS major at NAU.
 
 ## Professor
 
-Dr. Marco Gerosa
+### Dr. Marco Gerosa
